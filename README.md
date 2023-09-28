@@ -1,11 +1,3 @@
-# pounce
-
-Pounce is a motion plugin based on incremental fuzzy search.
-
-## Installation
-
-"9th8/pounce"
-
 ## Usage
 
 The `:Pounce` command starts the motion. Type the character at the destination
